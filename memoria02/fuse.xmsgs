@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"C:/Users/ASUS/Desktop/Xiling/EjerciciosU2/memoria02/memoria2.vhd" Line 30: &lt;<arg fmt="%s" index="1">conv_integer</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"C:/Users/ASUS/Desktop/Xiling/EjerciciosU2/memoria02/memoria2.vhd" Line 36: &lt;<arg fmt="%s" index="1">conv_integer</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="unknown" >"C:/Users/ASUS/Desktop/Xiling/EjerciciosU2/memoria02/memoria2.vhd" Line 17: Unit &lt;<arg fmt="%s" index="1">behavior</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+
